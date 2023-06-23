@@ -1,6 +1,7 @@
 # YouTube Clone
 
-![YouTube Clone](link-to-your-image)
+![feed](https://github.com/VaibhavYT/youtube_clone_2.0/assets/78371075/6ffe9022-299b-48bc-9a20-d535312120c3)
+
 
 A YouTube clone developed using ReactJS, leveraging the Rapid API for video integration. This application provides users with an immersive video browsing experience, including a search feature and ad-free video playback. With the sidebar navigation, users can explore and enjoy videos on specific topics of their interest.
 
@@ -9,6 +10,13 @@ A YouTube clone developed using ReactJS, leveraging the Rapid API for video inte
 - **Video Search**: Easily search for videos using keywords and find relevant content quickly.
 - **Ad-Free Playback**: Enjoy watching videos without any interruptions from advertisements.
 - **Topic-Based Navigation**: The sidebar allows users to choose different topics and browse videos exclusively within their selected category.
+
+## Screenshots
+
+![Video_player](https://github.com/VaibhavYT/youtube_clone_2.0/assets/78371075/8f5e5679-b493-481e-9f4c-2b7481426c4a)
+![Search_Result](https://github.com/VaibhavYT/youtube_clone_2.0/assets/78371075/07f2c70f-8553-4b94-bacb-67dab8ac6f72)
+
+
 
 ## Technologies Used
 
@@ -43,9 +51,6 @@ This project is licensed under the [MIT License](link-to-your-license-file). Fee
 
 This YouTube clone was inspired by the original YouTube platform and built for educational purposes. The integration with Rapid API has significantly enhanced the user experience. Special thanks to the ReactJS and Rapid API communities for their valuable contributions.
 
-## Screenshots
-
-Insert screenshots or GIFs of your YouTube clone in action to showcase its features.
 
 ## Lessons Learned
 
