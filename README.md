@@ -14,6 +14,7 @@ A YouTube clone developed using ReactJS, leveraging the Rapid API for video inte
 ## Screenshots
 
 ![Video_player](https://github.com/VaibhavYT/youtube_clone_2.0/assets/78371075/8f5e5679-b493-481e-9f4c-2b7481426c4a)
+## Search Result ScreenShot
 ![Search_Result](https://github.com/VaibhavYT/youtube_clone_2.0/assets/78371075/07f2c70f-8553-4b94-bacb-67dab8ac6f72)
 
 
