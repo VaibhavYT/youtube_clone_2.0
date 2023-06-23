@@ -1,6 +1,8 @@
 # YouTube Clone
 
-![YouTube Clone](link-to-your-image)
+![Feed](https://github.com/VaibhavYT/youtube_clone_2.0/assets/78371075/9476e1b7-88fc-4e9e-9411-8d1af3df1b0f)
+
+
 
 A YouTube clone developed using ReactJS, leveraging the Rapid API for video integration. This application provides users with an immersive video browsing experience, including a search feature and ad-free video playback. With the sidebar navigation, users can explore and enjoy videos on specific topics of their interest.
 
@@ -9,6 +11,13 @@ A YouTube clone developed using ReactJS, leveraging the Rapid API for video inte
 - **Video Search**: Easily search for videos using keywords and find relevant content quickly.
 - **Ad-Free Playback**: Enjoy watching videos without any interruptions from advertisements.
 - **Topic-Based Navigation**: The sidebar allows users to choose different topics and browse videos exclusively within their selected category.
+
+## Screenshots
+
+![Video_player](https://github.com/VaibhavYT/youtube_clone_2.0/assets/78371075/a76971f7-6b94-41b8-88b2-6c799663f785)
+
+![Search_Result](https://github.com/VaibhavYT/youtube_clone_2.0/assets/78371075/f0ad4a4f-6810-4f08-b65e-e113345b929d)
+
 
 ## Technologies Used
 
@@ -19,10 +28,10 @@ A YouTube clone developed using ReactJS, leveraging the Rapid API for video inte
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
-2. Navigate to the project directory: `cd your-repo`
+1. Clone the repository: `git clone https://github.com/your-VaibhavYT/youtube_clone_2.0.git`
+2. Navigate to the project directory: `cd youtube_clone_2.0`
 3. Install the dependencies: `npm install`
-4. Run the application: `npm start`
+4. Run the application: `npm start `
 5. Open your browser and visit: `http://localhost:3000`
 
 ## Contribution
@@ -42,10 +51,6 @@ This project is licensed under the [MIT License](link-to-your-license-file). Fee
 ## Acknowledgements
 
 This YouTube clone was inspired by the original YouTube platform and built for educational purposes. The integration with Rapid API has significantly enhanced the user experience. Special thanks to the ReactJS and Rapid API communities for their valuable contributions.
-
-## Screenshots
-
-Insert screenshots or GIFs of your YouTube clone in action to showcase its features.
 
 ## Lessons Learned
 
