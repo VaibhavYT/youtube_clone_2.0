@@ -6,7 +6,7 @@ const App = () => (
     <Box sx={{ backgroundColor: "#000" }}>
       <Navbar />
       <Routes>
-        <Route path="/youtube_clone_2.0/" exact element={<Feed />} />
+        <Route path="/" exact element={<Feed />} />
         <Route path="/video/:id" exact element={<VideoDetail />} />
         <Route path="/channel/:id" exact element={<ChannelDetail />} />
         <Route path="/search/:searchTerm" exact element={<SearchFeed />} />
